@@ -1,7 +1,7 @@
 # django_blog
 
 Here is my first prototye's blog with django.
-go to www.fjr.pythonanywhere.com to see how it looks.
+go to www.fjr9.pythonanywhere.com to see how it looks.
 added several features, which you can see on blog/models.py
 
 I don't really know about UI, so i used little bit bootstrap.
